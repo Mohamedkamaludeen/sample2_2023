@@ -10,5 +10,6 @@ class sum
         //this kh
         gbgfhbfghfgh
         dfgkjdfhkgj
+        ado mn me
     }
 }
