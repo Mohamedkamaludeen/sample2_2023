@@ -7,5 +7,6 @@ class sum
         System.out.println("The sum is"+(a+b));
         //this for checking the different
         //This is a summation opperation
+        //this kh
     }
 }
